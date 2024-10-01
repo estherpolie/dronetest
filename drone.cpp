@@ -1,4 +1,4 @@
 int main()
-{ int i=o;
+{ int j=o;
 
 }
